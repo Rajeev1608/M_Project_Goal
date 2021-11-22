@@ -54,3 +54,16 @@ Game
 To store the score and game data base of the players in online
 # Details Requirements:
 ### High Level Requirements:
+| ID | Player ID | Player Discription | Status |
+|------|------| ------| ------|
+| HLR2 |  Name  | Player enter their __Names__ | Implemented next
+| HLR3 | Gender | Player enter their __Gender__  | Implemented next
+| HLR4 | Age    | Player enter their __Age__  | Implemented next
+| HLR5 | Score | Player enter the __Elligibility_   | Implemented next
+### Low Level Requirements:
+| ID | Players ID | Players Discription | Status |
+|------|------| ------| ------|
+| LLR1 | Win | Player will be happy | Implemented next
+| LLR2 | Loss | Player will be disappointed | Implemented next
+| LLR3 | calculations | Score calculation | Implemented next
+| LLR4| Player  Final View | finally Player has to enjoy the game  | Implemented next
