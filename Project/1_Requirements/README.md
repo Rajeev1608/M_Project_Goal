@@ -43,3 +43,14 @@ The system consists of a pyramid of leagues, bound together by the principle of 
 • Acting without integrity
 ### Opportunities:
 • Having extraordinary skills and understanding the game play
+### Threats:
+• An uneven surface condition is danger for players
+## 4W's and 1H
+### Who:
+Football league
+### What:
+Game
+### When:
+To store the score and game data base of the players in online
+# Details Requirements:
+### High Level Requirements:
