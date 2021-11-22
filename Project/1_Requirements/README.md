@@ -20,3 +20,26 @@ The system consists of a pyramid of leagues, bound together by the principle of 
 • Points (calculate using 3 points for a win and 1 for a draw)
 # SWOT ANALYSIS
 ### Strenghts:
+• Team coardination
+
+• Time management to set a goal
+
+• To defend the opponent team goals
+
+• Tactics implemented on field to win the game 
+
+• Striking the ball
+
+•changing direction in the field
+### Weakness:
+• If players voilate the rules referee will sent out of the game
+
+• Individual game play will loose the game
+
+• Tendency to take on too much responsibility.
+
+• Impatience with bureaucracies
+
+• Acting without integrity
+### Opportunities:
+• Having extraordinary skills and understanding the game play
