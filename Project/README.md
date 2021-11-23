@@ -8,9 +8,9 @@
 ![Code Grade](https://api.codiga.io/project/29838/status/svg)
 # Linux OS
 [![linux os](https://github.com/GadidhalaKasturi/M1_Application_Parking/actions/workflows/linu.yml/badge.svg)](https://github.com/GadidhalaKasturi/M1_Application_Parking/actions/workflows/linu.yml)
-# M1_Application_Parking
+# M_Project_Goal
 
-In tnis project, a version of parking system program in c is developed which will perform parking system depending on the input from the customer.
+In this project, Scores of the football game is recorded
 
 # Folder Structure :
 
