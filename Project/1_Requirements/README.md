@@ -50,8 +50,12 @@ The system consists of a pyramid of leagues, bound together by the principle of 
 Football league
 ### What:
 Game
+### where:
+It can be used in all the games
 ### When:
 To store the score and game data base of the players in online
+### How:
+It will compare scores of  all the players and gives the best accurate result 
 # Details Requirements:
 ### High Level Requirements:
 | ID | Player ID | Player Discription | Status |
