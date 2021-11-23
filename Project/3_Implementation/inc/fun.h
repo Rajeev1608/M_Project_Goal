@@ -1,9 +1,8 @@
 #ifndef _FUN_H
 #define _FUN_H
-void addrecords();
+void addTeam();
 void deleterecords();
-void searchrecords();
+void viewPointTable();
 void listrecords();
-void payment();
-void modifyrecords();
+void Exit();
 #endif
